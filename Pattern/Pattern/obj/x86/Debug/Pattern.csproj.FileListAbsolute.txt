@@ -1,0 +1,4 @@
+D:\Pranav\C#\Pattern\Pattern\bin\Debug\Pattern.exe
+D:\Pranav\C#\Pattern\Pattern\bin\Debug\Pattern.pdb
+D:\Pranav\C#\Pattern\Pattern\obj\x86\Debug\Pattern.exe
+D:\Pranav\C#\Pattern\Pattern\obj\x86\Debug\Pattern.pdb

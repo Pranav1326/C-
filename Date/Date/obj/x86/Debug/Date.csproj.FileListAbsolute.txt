@@ -1,0 +1,5 @@
+D:\Pranav\C#\Date\Date\bin\Debug\Date.exe
+D:\Pranav\C#\Date\Date\bin\Debug\Date.pdb
+D:\Pranav\C#\Date\Date\obj\x86\Debug\Date.exe
+D:\Pranav\C#\Date\Date\obj\x86\Debug\Date.pdb
+D:\Pranav\C#\Date\Date\obj\x86\Debug\Date.csprojResolveAssemblyReference.cache
